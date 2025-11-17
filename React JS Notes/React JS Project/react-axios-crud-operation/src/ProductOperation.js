@@ -55,10 +55,10 @@ let deleteProduct= async (id)=> {
 let readyToUpdate = (product)=> {
     //alert(product)
     console.log(product);
-    setPname(product.pname);
-    setPrice(product.price);
-    setStock(product.stock);
-    setId(product.id);
+        setPname(product.pname);
+        setPrice(product.price);
+        setStock(product.stock);
+        setId(product.id);
     setSubmitValueValue("Update Product");
 }
     return(
