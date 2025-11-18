@@ -7,7 +7,8 @@ const storeRef = configureStore({
         products:productReducer,
         
     },
-    middleware:(getDefaultMiddleware)=>getDefaultMiddleware().concat(logger)
+    middleware:(getDefaultMiddleware)=>getDefaultMiddleware().concat(logger),
+    devTools:process.env.NODE_ENV !=="production"
 })
 
 export default storeRef;

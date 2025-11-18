@@ -23,6 +23,50 @@
       "pname": "Hard Disk",
       "price": "14000",
       "stock": "4"
+    },
+    {
+      "id": "e1c8",
+      "payload": {
+        "pname": "Pen Drive",
+        "price": "1600",
+        "stock": "10"
+      }
+    },
+    {
+      "id": "5341",
+      "pname": "Mobile",
+      "price": "56000",
+      "stock": "25"
+    },
+    {
+      "id": "8b79",
+      "pname": "Pen",
+      "price": "140",
+      "stock": "50"
+    },
+    {
+      "id": "7111",
+      "pname": "A",
+      "price": "100",
+      "stock": "10"
+    },
+    {
+      "id": "30a0",
+      "pname": "B",
+      "price": "200",
+      "stock": "50"
+    },
+    {
+      "id": "bbd9",
+      "pname": "C",
+      "price": "300",
+      "stock": "50"
+    },
+    {
+      "id": "9c55",
+      "pname": "D",
+      "price": "400",
+      "stock": "40"
     }
   ],
   "employees": [
